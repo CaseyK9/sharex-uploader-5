@@ -1,0 +1,12 @@
+﻿{
+  "Version": "13.1.0",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "http://example.com/upload.php",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "secret": "changeme"
+  },
+  "FileFormName": "sharex",
+  "URL": "http://example.com/img/$json:url$"
+}
