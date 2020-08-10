@@ -1,2 +1,2 @@
-# sharex-uploader
-Custom ShareX uploader. Mainly used by me to avoid Gyazos shitty delay. Feel free to fork and use the code for yourself.
+#sharex-uploader
+too lazy to write a readme right now. add my discord if you need help: Nexus#9567
